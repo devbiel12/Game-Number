@@ -1,0 +1,18 @@
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\bin\Debug\GabrielAraujo - Numeros.exe.config
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\bin\Debug\GabrielAraujo - Numeros.exe
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\bin\Debug\GabrielAraujo - Numeros.pdb
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo - Numeros.csproj.AssemblyReference.cache
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo___Numeros.dificil.resources
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo___Numeros.facil.resources
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo___Numeros.Form1.resources
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo___Numeros.medio.resources
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo___Numeros.Properties.Resources.resources
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo - Numeros.csproj.GenerateResource.cache
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo - Numeros.csproj.CoreCompileInputs.cache
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo - Numeros.exe
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo - Numeros.pdb
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\bin\Debug\Interop.WMPLib.dll
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\bin\Debug\AxInterop.WMPLib.dll
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\Interop.WMPLib.dll
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\AxInterop.WMPLib.dll
+D:\2ºANO\DS\3ºBIMESTRE\GabrielAraujo - Numeros\GabrielAraujo - Numeros\obj\Debug\GabrielAraujo - Numeros.csproj.ResolveComReference.cache
